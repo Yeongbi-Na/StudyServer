@@ -65,8 +65,7 @@
 
 </br>
 
-<h4>5.jupyter notebook config 파일 수정</br> </br> 
-- jupyter notebook config파일을 목적에 맞게 파일을 수정해야함</br>
+<h4>5.목적에 맞게 jupyter notebook config 파일 수정</br> </br> 
 - 아래처럼 직접 타이핑해도 되고 아래 주석으로된 걸 풀어서 수정해도 됨</h4>
 
     
