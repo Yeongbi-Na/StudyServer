@@ -52,6 +52,7 @@
 
     pip install --upgrade pip
     pip install jupyter
+    pip install jupyterlab
     
     jupyter notebook --generate-config -y
     >> jupyternotebook.config파일 경로
@@ -73,7 +74,7 @@
     c.NotebookApp.open_browser=True
     c.NotebookApp.port=8888
     c.NotebookApp.allow_root=True
-    c.NotebookApp.remote_access=True
+    c.NotebookApp.allow_remote_access=True
     
     #config 파일 저장 후 닫기
     ctrl+x > y> enter 클릭
