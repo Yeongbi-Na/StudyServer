@@ -86,7 +86,7 @@
 
 
     jupyter notebook --ip='서버 ip 주소'
-    jupyter-lab --ip='210.125.84.154' --port=54325 --allow-root
+    jupyter-lab --ip='000.000.00.000' --port=54325 --allow-root
 
     
 chrome 실행 후, 검색창에 'ip주소:port번호' 클릭해 접속
