@@ -24,8 +24,7 @@
 
     cd '이동하고자하는 경로'
     mkdir '만들려는 dir'
-    
-    
+
 </br>
 
 <h4>2.필요한 Image pull</h4>
